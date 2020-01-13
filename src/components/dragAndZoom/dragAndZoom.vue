@@ -309,9 +309,9 @@ left: 40%;
 z-index: 10000;
 background: #FFFFFF;
 cursor: move;
--moz-box-shadow:0px 2px 20px #a0a0a0; 
--webkit-box-shadow:0px 2px 20px #a0a0a0; 
-box-shadow:0px 2px 20px #a0a0a0; 
+-moz-box-shadow:0px 2px 20px rgba(194, 194, 194, 0.4); 
+-webkit-box-shadow:0px 2px 20px rgba(194, 194, 194, 0.4); 
+box-shadow:0px 2px 20px rgba(194, 194, 194, 0.4); 
 }
 #topBorder {
 width: 100%;
