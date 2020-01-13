@@ -1,0 +1,14 @@
+{
+  "name": "v-drag-zoom",
+  "version": "1.0.2",
+  "description": "全局浮动模块拖拽移动与缩放",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
